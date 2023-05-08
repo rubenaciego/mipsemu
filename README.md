@@ -1,2 +1,2 @@
-# mipsemu
+# MIPSemu
 Very simple MIPS emulator
